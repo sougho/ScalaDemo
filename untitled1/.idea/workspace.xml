@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50860ba3-3a3e-4dd5-ae52-475e5c535469" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Wmb7jy3aBzEqvZFKj4O9IukOgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercises" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnonymousFunctions">
+    <configuration name="AnonymousFunctions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3functionalprogramming.AnonymousFunctions" />
+      <module name="ScalaLearening" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3functionalprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaseClass" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2OOP.CaseClass" />
+      <module name="ScalaLearening" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ListTest" />
+      <module name="ScalaLearening" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.ListTest1" />
+      <module name="ScalaLearening" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatsAFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3functionalprogramming.WhatsAFunction" />
+      <module name="ScalaLearening" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3functionalprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ScalaLearening" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ScalaLearening" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnonymousFunctions" />
+        <item itemvalue="Application.WhatsAFunction" />
+        <item itemvalue="Application.ListTest1" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.CaseClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50860ba3-3a3e-4dd5-ae52-475e5c535469" name="Default Changelist" comment="" />
+      <created>1579757551848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579757551848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1580395972975">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser/0.23.1680.965@0.23.1680.965" timestamp="1580317708562" />
+    <state x="653" y="209" key="#com.intellij.ide.util.MemberChooser/0.23.1680.967@0.23.1680.967" timestamp="1580395972975" />
+    <state x="653" y="210" key="#com.intellij.ide.util.MemberChooser/0.23.1680.972@0.23.1680.972" timestamp="1579951501570" />
+    <state x="649" y="428" key="Github.CreateGistDialog" timestamp="1580403872942">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="649" y="428" key="Github.CreateGistDialog/0.23.1680.972@0.23.1680.972" timestamp="1580403872942" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom" timestamp="1580397120048">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1580317775375" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1580200624176" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1580396321784" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1580397120048" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1579839690302" />
+    <state width="1358" height="246" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1579838818184" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center" timestamp="1580397120047">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1580317775374" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1580200624175" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1580396321783" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1580397120047" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1579839690301" />
+    <state width="1358" height="246" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1579838818183" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left" timestamp="1580397120046">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1580317775373" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1580200624174" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1580396321782" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1580397120046" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1579839690300" />
+    <state width="1358" height="246" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1579838818182" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right" timestamp="1580397120047">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1580317775374" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1580200624175" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1580396321783" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1580397120047" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1579839690301" />
+    <state width="1358" height="246" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1579838818183" />
+    <state x="519" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1579757557643">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="519" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1579757557643" />
+    <state x="505" y="233" key="run.anything.popup" timestamp="1579757671831">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="505" y="233" key="run.anything.popup/0.23.1680.967@0.23.1680.967" timestamp="1579757671831" />
+  </component>
+</project>
